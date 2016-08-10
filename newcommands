@@ -1,0 +1,7 @@
+put 120 a
+put 55 b
+put 320 c
+add a b a
+sub c a a
+show a
+end

@@ -1,0 +1,5 @@
+put 1010 a
+put 1111 b
+and a b c
+show c
+end

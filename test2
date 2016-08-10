@@ -1,0 +1,8 @@
+put 35 a
+put 3 b
+put 20 c
+put 0 d
+mul a b a
+div c d c
+show c
+end

@@ -1,0 +1,5 @@
+put 5 a
+put 10 b
+add a b a
+show a
+end

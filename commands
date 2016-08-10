@@ -1,0 +1,6 @@
+put 3 b
+add b 12 b
+sub b 12 c
+show b
+show c
+end
