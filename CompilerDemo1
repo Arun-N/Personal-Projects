@@ -1,0 +1,7 @@
+put 120 a 
+put 220 b
+put 10 c
+sub b a d
+mul d c d
+show d
+end
