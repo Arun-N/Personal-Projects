@@ -1,5 +1,0 @@
-put 123 a
-put 222 b
-add a b a
-show a
-end

@@ -1,5 +1,0 @@
-put 5 a 
-put 6 b
-add a b a
-show a
-end
