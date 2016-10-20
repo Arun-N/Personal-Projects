@@ -108,6 +108,7 @@ class Ui_Dialog(object):
                 file_write.close()
 
                 self.instr_list = re.sub("[^\w,.'\"#]", " ", program).split()
+                print(self.instr_list)
                 for x in self.instr_list:
                     if x in self.syntax or self.is_num(x):
                         continue

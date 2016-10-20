@@ -1,0 +1,5 @@
+put 6 a
+put 5 b
+ml a b c
+show c
+end
